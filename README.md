@@ -8,7 +8,7 @@
 
 ##### Pré-visualização do Projeto:
 
-![](https://imgur.com/CAh9G8d.gif)
+![GIF-PROJECT](./preview-project/preview.gif)
 
 
 
