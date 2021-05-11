@@ -10,7 +10,7 @@ Projeto desenvolvido na Semana React Spring da [DevSuperior](https://www.linkedi
 
 
 
-##### Link do projeto: https://profcav-dashvendas.netlify.app/dashboard
+##### Link do projeto: https://david-dsvendas.netlify.app/dashboard
 
 ###### OBS: Por estar no heroku no modelo gratuito , demora entorno de 1 minuto para carregar as informações do site.
 
